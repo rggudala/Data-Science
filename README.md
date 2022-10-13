@@ -12,3 +12,5 @@ August 24 - 39.5% -- Ukraine Independence Day
 October 2 - 41.0% --Annexation of certain territories
 October 11 - 46.1% -- Russian terror attacks on Kyiv
 Generally polarization seems to be trending down.
+
+FYI: The dataset that I am using for the task on the Ukraine and Russia War is downloaded from Kaggle. This dataset was initially collected from Twitter and is updated regularly. 
